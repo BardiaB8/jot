@@ -12,6 +12,8 @@ time<br />
 tkinter (graphical user interface)<br />
 tkinter.ttk<br />
 re (for replacing ی with ي)<br />
+# icons
+all three icons used in this application are from [icons8](https://icons.com) (drag, send and close)
 # فارسی
 آیا تابه حال با تایپ کردن در ادوبی کانکت مشکل داشته اید؟ خب، این برنامه برای رفع این اشکال درست شده است!
 مشکل ادوبی کانکت این است که وقتی شما ی را تایپ می کنید، آن ی باعث به هم ریختن متن پیام شما می شود، ولی به نظر می رسد ادوبی کانکت با ي مشکلی ندارد.
