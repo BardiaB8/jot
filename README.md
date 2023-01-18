@@ -16,6 +16,11 @@ tkinter.ttk<br />
 re (for replacing ی with ي)<br />
 # icons
 all icons used in this application are from [icons8](https://icons8.com) (drag, send and close). does not include the image in the splash screen!
+# Sources
+-Stack overflow:
+I got a lot of help from stack overflow! links I used:
+https://stackoverflow.com/questions/4150053/python-tkinter-using-tkinter-for-rtl-right-to-left-languages-like-arabic-hebr
+...
 # فارسی
 آیا تابه حال با تایپ کردن در ادوبی کانکت مشکل داشته اید؟ خب، این برنامه برای رفع این اشکال درست شده است!
 مشکل ادوبی کانکت این است که وقتی شما ی را تایپ می کنید، آن ی باعث به هم ریختن متن پیام شما می شود، ولی به نظر می رسد ادوبی کانکت با ي مشکلی ندارد.
